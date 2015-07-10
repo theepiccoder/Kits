@@ -1,0 +1,7 @@
+name: Kits
+main: com.ConorGrocock.src.Kits
+version: 1.0
+commands:
+   kit:
+      description: Teleport the player(s)
+      usage: /heal
